@@ -1,4 +1,4 @@
-# U-Net Denoising Practice
+# U-Net Denoising Demo
 
 A PyTorch implementation of U-Net with attention mechanism for image denoising. This practice project implements a deep learning solution for processing and cleaning images.
 
